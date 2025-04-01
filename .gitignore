@@ -1,0 +1,23 @@
+# Directorios de compilación
+target/
+build/
+bin/
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Archivos temporales y de respaldo
+*.log
+*.bak
+*.swp
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Dependencias de Maven
+.mvn/
