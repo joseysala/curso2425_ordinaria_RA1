@@ -205,7 +205,7 @@ public class XmlManager
 			DOMImplementation domImp = null;
 			DocumentType docType = null;
 			
-			String nombre_fichero_xml_salida = "vencedores_josesala.xml";
+			String nombre_fichero_xml_salida = "vencedores.xml";
 			try 
 			{
 				 tf= TransformerFactory.newInstance();
