@@ -1,3 +1,7 @@
+
+#Cuando añades un archivo .gitignore a un proyecto existente de GitHub, es importante tener en cuenta que Git no eliminará automáticamente los archivos que ya están siendo rastreados por el repositorio, incluso si ahora están en .gitignore. Para que estos archivos sean ignorados, deberás eliminarlos del control de versiones de Git y luego hacer un commit.
+
+
 # Directorios de compilación
 target/
 build/
