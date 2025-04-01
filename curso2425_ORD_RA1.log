@@ -16,3 +16,6 @@
 2025-03-31 16:51:03,909 [main] INFO  ordinaria.Programa                       - Ultramaratón del Desierto 2025-Sáhara, Marruecos-2025-04-15- premios:10000€, 7000€, 5000€
 2025-03-31 16:51:04,037 [main] INFO  utils.XmlManager                         - Fichero xml creado: vencedores_josesala.xml
 2025-03-31 16:51:04,056 [main] INFO  utils.XmlManager                         - Fichero xml creado: vencidos_josesala.xml
+2025-04-01 17:23:30,453 [main] INFO  ordinaria.Programa                       - Duración en segundos: 8130
+2025-04-01 17:23:30,460 [main] INFO  ordinaria.Programa                       - Duración en segundos: 9340
+2025-04-01 17:23:30,462 [main] ERROR ordinaria.Programa                       - Error. Se esperaban dos parámetros: [xml] [xsd] [dtd]
