@@ -92,7 +92,6 @@ public class Competicion
 	{
 		long peorTiempo = 0L;
 		long tiempoParticipante;
-		Participante campeon = null;
 		String tiempoPerdedor = null;
 		Map<Participante, String> entradasVencidos= null;
 		

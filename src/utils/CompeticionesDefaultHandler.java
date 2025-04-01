@@ -27,13 +27,11 @@ public class CompeticionesDefaultHandler extends DefaultHandler
 	private final String NOM_COMPETICION ="nombre";
 	private final String FECHA_COMPETICION ="fecha";
 	private final String UBICACION_COMPETICION ="ubicacion";
-	private final String PARTICIPANTES_COMPETICION ="participantes";
 	private final String PARTICIPANTE_COMPETICION ="participante";
 	private final String NOM_PARTICIPANTE ="nombre";
 	private final String EDAD_PARTICIPANTE ="edad";
 	private final String TIEMPO_PARTICIPANTE ="tiempo";
 	private final String PAIS_PARTICIPANTE ="pais";
-	private final String PREMIO = "premio";
 	private final String PREMIO_1 = "puesto_1";
 	private final String PREMIO_2 = "puesto_2";
 	private final String PREMIO_3 = "puesto_3";
@@ -128,6 +126,15 @@ public class CompeticionesDefaultHandler extends DefaultHandler
 			if (participante != null)
 			{
 				participante.setPais(pais);
+			}
+		break;
+
+		case EDAD_PARTICIPANTE:
+		
+			String edad = sb.toString();
+			if (participante != null)
+			{
+				participante.setEdad(Integer.parseInt(edad));
 			}
 		break;
 		
