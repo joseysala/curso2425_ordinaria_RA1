@@ -1,0 +1,18 @@
+2025-03-31 16:32:18,155 [main] INFO  ordinaria.Programa                       - Duración en segundos: 8130
+2025-03-31 16:32:18,173 [main] INFO  ordinaria.Programa                       - Duración en segundos: 9340
+2025-03-31 16:32:18,181 [main] ERROR ordinaria.Programa                       - Ha fallado la validación de ficheros XML, XSD y DTD
+2025-03-31 16:33:13,097 [main] INFO  ordinaria.Programa                       - Duración en segundos: 8130
+2025-03-31 16:33:13,111 [main] INFO  ordinaria.Programa                       - Duración en segundos: 9340
+2025-03-31 16:33:13,312 [main] INFO  utils.XmlManager                         - Se dispone de 3 competiciones en el fichero XML
+2025-03-31 16:33:13,347 [main] INFO  ordinaria.Programa                       - Maratón Internacional 2025-Madrid, España-2025-03-11- premios:5000€, 3000€, 1000€
+2025-03-31 16:33:13,348 [main] INFO  ordinaria.Programa                       - Carrera de Montaña 2025-Andorra-2025-03-20- premios:6000€, 4000€, 2000€
+2025-03-31 16:33:13,349 [main] INFO  ordinaria.Programa                       - Ultramaratón del Desierto 2025-Sáhara, Marruecos-2025-04-15- premios:10000€, 7000€, 5000€
+2025-03-31 16:33:13,504 [main] INFO  utils.XmlManager                         - Fichero xml creado: vencedores_josesala.xml
+2025-03-31 16:51:03,734 [main] INFO  ordinaria.Programa                       - Duración en segundos: 8130
+2025-03-31 16:51:03,749 [main] INFO  ordinaria.Programa                       - Duración en segundos: 9340
+2025-03-31 16:51:03,888 [main] INFO  utils.XmlManager                         - Se dispone de 3 competiciones en el fichero XML
+2025-03-31 16:51:03,906 [main] INFO  ordinaria.Programa                       - Maratón Internacional 2025-Madrid, España-2025-03-11- premios:5000€, 3000€, 1000€
+2025-03-31 16:51:03,908 [main] INFO  ordinaria.Programa                       - Carrera de Montaña 2025-Andorra-2025-03-20- premios:6000€, 4000€, 2000€
+2025-03-31 16:51:03,909 [main] INFO  ordinaria.Programa                       - Ultramaratón del Desierto 2025-Sáhara, Marruecos-2025-04-15- premios:10000€, 7000€, 5000€
+2025-03-31 16:51:04,037 [main] INFO  utils.XmlManager                         - Fichero xml creado: vencedores_josesala.xml
+2025-03-31 16:51:04,056 [main] INFO  utils.XmlManager                         - Fichero xml creado: vencidos_josesala.xml

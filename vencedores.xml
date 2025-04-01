@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vencedores>
+		<competicion nombre="Maratón Internacional 2025">
+			<participante nombre ="Luis Fernández" tiempo ="01:10:45" premio ="5000€"/>
+		</competicion>
+		<competicion nombre="Maratón Internacional 2025">
+			<participante nombre ="Frank Moreau" tiempo ="05:05:10" premio ="6000€"/>
+		</competicion>
+		<competicion nombre="Ultramaratón del Desierto 2025">
+			<participante nombre ="James Stone" tiempo ="07:45:50" premio ="10000€"/>
+		</competicion>
+</vencedores>

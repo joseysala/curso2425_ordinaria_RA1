@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competiciones  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="competicion.xsd">
+	<competicion nombre="Maratón Internacional 2025">
+		<fecha>2025-03-11</fecha>
+		<ubicacion>Madrid, España</ubicacion>
+		<participantes>
+			<participante>
+				<nombre>Carlos López</nombre>
+				<edad>32</edad>
+				<pais>España</pais>
+				<tiempo>02:15:30</tiempo>
+			</participante>
+			<participante>
+				<nombre>Ana Martínez</nombre>
+				<edad>29</edad>
+				<pais>México</pais>
+				<tiempo>02:30:10</tiempo>
+			</participante>
+			<participante>
+				<nombre>Luis Fernández</nombre>
+				<edad>27</edad>
+				<pais>Argentina</pais>
+				<tiempo>01:10:45</tiempo>
+			</participante>
+			<participante>
+				<nombre>Sofía Gómez</nombre>
+				<edad>30</edad>
+				<pais>Chile</pais>
+				<tiempo>01:20:33</tiempo>
+			</participante>
+		</participantes>
+		<premio>
+			<puesto_1>5000€</puesto_1>
+			<puesto_2>3000€</puesto_2>
+			<puesto_3>1000€</puesto_3>
+		</premio>
+	</competicion>
+	<competicion nombre="Carrera de Montaña 2025">
+		<fecha>2025-03-20</fecha>
+		<ubicacion>Andorra</ubicacion>
+		<participantes>
+			<participante>
+				<nombre>Javier Torres</nombre>
+				<edad>35</edad>
+				<pais>España</pais>
+				<tiempo>05:10:20</tiempo>
+			</participante>
+			<participante>
+				<nombre>Laura Méndez</nombre>
+				<edad>31</edad>
+				<pais>Francia</pais>
+				<tiempo>05:45:50</tiempo>
+			</participante>
+			<participante>
+				<nombre>Frank Moreau</nombre>
+				<edad>32</edad>
+				<pais>Francia</pais>
+				<tiempo>05:05:10</tiempo>
+			</participante>
+			
+		</participantes>
+		<premio>
+			<puesto_1>6000€</puesto_1>
+			<puesto_2>4000€</puesto_2>
+			<puesto_3>2000€</puesto_3>
+		</premio>
+	</competicion>
+	<competicion nombre="Ultramaratón del Desierto 2025">
+		<fecha>2025-04-15</fecha>
+		<ubicacion>Sáhara, Marruecos</ubicacion>
+		<participantes>
+			<participante>
+				<nombre>Pedro Ramírez</nombre>
+				<edad>40</edad>
+				<pais>España</pais>
+				<tiempo>09:25:30</tiempo>
+			</participante>
+			<participante>
+				<nombre>María González</nombre>
+				<edad>37</edad>
+				<pais>Argentina</pais>
+				<tiempo>10:15:20</tiempo>
+			</participante>
+			<participante>
+				<nombre>James Stone</nombre>
+				<edad>21</edad>
+				<pais>EEUU</pais>
+				<tiempo>07:45:50</tiempo>
+			</participante>
+		</participantes>
+		<premio>
+			<puesto_1>10000€</puesto_1>
+			<puesto_2>7000€</puesto_2>
+			<puesto_3>5000€</puesto_3>
+		</premio>
+	</competicion>
+</competiciones>

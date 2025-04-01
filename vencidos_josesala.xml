@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE vencidos SYSTEM "vencidos.dtd">
+<vencidos>
+    <competicion nombre="Maratón Internacional 2025">
+        <participante nombre="Sofía Gómez" premio="5000€" tiempo="01:20:33"/>
+        <participante nombre="Carlos López" premio="5000€" tiempo="02:15:30"/>
+        <participante nombre="Ana Martínez" premio="5000€" tiempo="02:30:10"/>
+    </competicion>
+    <competicion nombre="Carrera de Montaña 2025">
+        <participante nombre="Javier Torres" premio="6000€" tiempo="05:10:20"/>
+        <participante nombre="Laura Méndez" premio="6000€" tiempo="05:45:50"/>
+    </competicion>
+    <competicion nombre="Ultramaratón del Desierto 2025">
+        <participante nombre="Pedro Ramírez" premio="10000€" tiempo="09:25:30"/>
+        <participante nombre="María González" premio="10000€" tiempo="10:15:20"/>
+    </competicion>
+</vencidos>

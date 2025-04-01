@@ -1,0 +1,7 @@
+<!ELEMENT vencedores (competicion+)>
+<!ELEMENT competicion (participante)>
+<!ATTLIST competicion nombre CDATA #REQUIRED>
+<!ELEMENT participante (#PCDATA)>
+<!ATTLIST participante nombre CDATA #REQUIRED>
+<!ATTLIST participante tiempo CDATA #REQUIRED>
+<!ATTLIST participante premio CDATA #REQUIRED>
