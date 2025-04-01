@@ -13,7 +13,7 @@
 			<pattern>%d [%thread] %-5level %-40logger{50} - %msg%n</pattern>
 		</encoder>
 	</appender>
-	<root level="info">
+	<root level="trace">
 		<appender-ref ref="Consola" />
 		<appender-ref ref="Fichero" />
 	</root>
